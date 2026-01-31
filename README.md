@@ -32,6 +32,7 @@ Movie posters and details are fetched using the TMDB API.
 ---
 
 ## 📁 Project Structure
+```txt
 app.py
 main.py
 df.pkl
@@ -40,6 +41,7 @@ tfidf_matrix.pkl
 indices.pkl
 requirements.txt
 .env
+---
 
 
 ---
