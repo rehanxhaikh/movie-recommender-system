@@ -45,7 +45,7 @@ TMDB API
 ⚙️ Setup Instructions
 
 1. Clone repository
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/rehanxhaikh/movie-recommender-system.git
 cd movie-recommender-system
 
 2. Create virtual environment
